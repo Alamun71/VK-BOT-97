@@ -1,1 +1,128 @@
- remove all text & add your fb apostate
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261554922533609%22%3A%2201oJtBqj%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "datr",
+        "value": "1C_pZmqbDi2qYIguUTJYJJiy",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "sb",
+        "value": "1C_pZhg3uFJ2Vt-9ysSewOS3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B699x357x3.023125171661377",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "wd",
+        "value": "357x699",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61554922533609",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "fr",
+        "value": "01iAFs74PKQGYW2dZ.AWUCZD-U7x9d0Y-upF4QRole2Kc.Bm6S_U..AAA.0.0.Bm691j.AWXiZaBinsk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "xs",
+        "value": "45%3AJSM7zCSRbbrZ8g%3A2%3A1726733667%3A-1%3A5134",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "61554922533609",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2625%3Btimestamp%3A1726840609",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101426132%3BT%3A28780714",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-20T14:34:37.729Z",
+        "lastAccessed": "2024-09-20T14:34:37.729Z"
+    }
+] remove all text & add your fb apostate
